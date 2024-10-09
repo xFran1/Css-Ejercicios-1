@@ -1,0 +1,21 @@
+span{
+    width: 180px;
+}
+.divespecial{
+    width: 200px;
+    border: 1px solid red;
+    background-color: grey;
+
+}
+
+.pespecial{
+    width: 300px;
+    border: 1px dotted grey;
+
+}
+
+.otroespecial{
+width: 300px;
+border: 1px dotted grey;
+
+}
