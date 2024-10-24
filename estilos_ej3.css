@@ -1,7 +1,11 @@
+:root{
+    --miguel: aquamarine;
+}
+
 .parrafo_destacado{
     font-size: 0.8rem;
     font-style: italic;
-    color: aquamarine;
+    color: var(--miguel);
 }
 
 .parrafo_estandar{
